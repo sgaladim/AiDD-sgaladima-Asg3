@@ -1,0 +1,8 @@
+ERROR:root:Failed to create Employee with data {'id': 2, 'fname': 'J0hn', 'lname': 'Smith', 'department': 'ENG', 'phNumber': '1234567890'}: First name cannot be empty or contain digits.
+ERROR:root:Failed to create Employee with data {'id': 3, 'fname': 'Jane', 'lname': 'Sm1th', 'department': 'ENG', 'phNumber': '1234567890'}: Last name cannot be empty or contain digits.
+ERROR:root:Failed to create Employee with data {'id': 4, 'fname': 'Alice', 'lname': 'Brown', 'department': 'eng', 'phNumber': '1234567890'}: Department must be exactly 3 uppercase letters.
+ERROR:root:Failed to create Employee with data {'id': 5, 'fname': 'Bob', 'lname': 'White', 'department': 'FIN', 'phNumber': '12345'}: Phone number must be exactly 10 digits.
+ERROR:root:Failed to create Employee with data {'id': 2, 'fname': 'J0hn', 'lname': 'Smith', 'department': 'ENG', 'phNumber': '1234567890'}: First name cannot be empty or contain digits.
+ERROR:root:Failed to create Employee with data {'id': 3, 'fname': 'Jane', 'lname': 'Sm1th', 'department': 'ENG', 'phNumber': '1234567890'}: Last name cannot be empty or contain digits.
+ERROR:root:Failed to create Employee with data {'id': 4, 'fname': 'Alice', 'lname': 'Brown', 'department': 'eng', 'phNumber': '1234567890'}: Department must be exactly 3 uppercase letters.
+ERROR:root:Failed to create Employee with data {'id': 5, 'fname': 'Bob', 'lname': 'White', 'department': 'FIN', 'phNumber': '12345'}: Phone number must be exactly 10 digits.
